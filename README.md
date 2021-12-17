@@ -15,6 +15,8 @@ Please checkout all my projects at [https://monicagranbois.com/projects/](https:
 - React 
 - Tailwind CSS
 
+I am learning these by building [knapsack-algorithm-visualization](https://github.com/MonicaG/knapsack-algorithm-visualization).
+
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
 - Twitter: [https://twitter.com/mgranbois](https://twitter.com/mgranbois)
