@@ -17,6 +17,8 @@ Please checkout all my projects at [https://monicagranbois.com/projects/](https:
 
 I am learning these by building [knapsack-algorithm-visualization](https://github.com/MonicaG/knapsack-algorithm-visualization).
 
+I am also refreshing my knowledge of algorithms and data structures. My notes are at [https://github.com/MonicaG/algorithms](https://github.com/MonicaG/algorithms).
+
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
 - Twitter: [https://twitter.com/mgranbois](https://twitter.com/mgranbois)
