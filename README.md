@@ -7,17 +7,13 @@ I'm currently looking for work! Please reach out if you know of any opportunitie
 
 - [BarbellHelper](https://barbellhelper.com/): an Apple Watch app for caluclating the weight plates to put on a barbell. 
 - [BC Dev Ex Bot](https://twitter.com/bcdevexbot): a twitter bot that tweets new opportunities posted to [https://bcdevexchange.org/](https://bcdevexchange.org/)
+- [knapsack-algorithm-visualization](https://github.com/MonicaG/knapsack-algorithm-visualization): A ReactJS app that steps through the knapsack algorithm
 
 Please checkout all my projects at [https://monicagranbois.com/projects/](https://monicagranbois.com/projects/)
 
 ## What I am currently learning
 
-- React 
-- Tailwind CSS
-
-I am learning these by building [knapsack-algorithm-visualization](https://github.com/MonicaG/knapsack-algorithm-visualization).
-
-I am also refreshing my knowledge of algorithms and data structures. My notes are at [https://github.com/MonicaG/algorithms](https://github.com/MonicaG/algorithms).
+I am refreshing my knowledge of algorithms and data structures. My notes are at [https://github.com/MonicaG/algorithms](https://github.com/MonicaG/algorithms).
 
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
