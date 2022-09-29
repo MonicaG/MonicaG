@@ -13,7 +13,7 @@ Please checkout all my projects at [https://monicagranbois.com/projects/](https:
 
 ## What I am currently learning
 
-I am refreshing my knowledge of algorithms and data structures. My notes are at [https://github.com/MonicaG/algorithms](https://github.com/MonicaG/algorithms).
+I am refreshing my knowledge of algorithms and data structures. My notes are at [https://monica-granbois.gitbook.io/cs-theory-and-problems/](https://monica-granbois.gitbook.io/cs-theory-and-problems/).
 
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
