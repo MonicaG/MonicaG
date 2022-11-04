@@ -1,11 +1,9 @@
 # Monica Granbois - @MonicaG
 I'm a software developer, formally at [AbeBooks](https://www.abebooks.com/). I took a career break to run around after my kids. But, I'm still coding! 
 
-I'm currently looking for work! Please reach out if you know of any opportunities. :blush:
-
 ## Projects
 
-- [BarbellHelper](https://barbellhelper.com/): an Apple Watch app for caluclating the weight plates to put on a barbell. 
+- [Barbell Helper](https://barbellhelper.com/): an Apple Watch app for caluclating the weight plates to put on a barbell. 
 - [BC Dev Ex Bot](https://twitter.com/bcdevexbot): a twitter bot that tweets new opportunities posted to [https://bcdevexchange.org/](https://bcdevexchange.org/)
 - [knapsack-algorithm-visualization](https://github.com/MonicaG/knapsack-algorithm-visualization): A ReactJS app that steps through the knapsack algorithm
 
