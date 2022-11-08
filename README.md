@@ -1,17 +1,19 @@
 # Monica Granbois - @MonicaG
-I'm a software developer, formally at [AbeBooks](https://www.abebooks.com/). I took a career break to run around after my kids. But, I'm still coding! 
+I am a software developer with a background in enterprise Java development. I also enjoy iOS and python development. 
+
+When not coding I like to read and have low key adventures (climbing, hiking, skiing, surfing).
 
 ## Projects
+
+Some personal projects I have created over the years are:
 
 - [Barbell Helper](https://barbellhelper.com/): an Apple Watch app for caluclating the weight plates to put on a barbell. 
 - [BC Dev Ex Bot](https://twitter.com/bcdevexbot): a twitter bot that tweets new opportunities posted to [https://bcdevexchange.org/](https://bcdevexchange.org/)
 - [knapsack-algorithm-visualization](https://github.com/MonicaG/knapsack-algorithm-visualization): A ReactJS app that steps through the knapsack algorithm
+- [DS and Algorithm Notes](https://monica-granbois.gitbook.io/cs-theory-and-problems/): My notes on algorithms and data structures. I occasionaly try [LeetCode](https://leetcode.com/) problems.
 
 Please checkout all my projects at [https://monicagranbois.com/projects/](https://monicagranbois.com/projects/)
 
-## What I am currently learning
-
-I am refreshing my knowledge of algorithms and data structures. My notes are at [https://monica-granbois.gitbook.io/cs-theory-and-problems/](https://monica-granbois.gitbook.io/cs-theory-and-problems/).
 
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
