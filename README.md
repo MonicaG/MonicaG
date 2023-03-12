@@ -1,5 +1,5 @@
 # Monica Granbois - @MonicaG
-I am a software developer with a background in enterprise Java development. I also enjoy iOS and python development. 
+I am currently a DevOps specialist with the Province of BC. I also have a background in enterprise Java development. 
 
 When not coding I like to read and have low key adventures (climbing, hiking, skiing, surfing).
 
@@ -17,6 +17,7 @@ Please checkout all my projects at [https://monicagranbois.com/projects/](https:
 
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
+- Mastodon: [https://hachyderm.io/@mgranbois](https://hachyderm.io/@mgranbois) 
 - Twitter: [https://twitter.com/mgranbois](https://twitter.com/mgranbois)
 - Stack Overflow: [https://stackoverflow.com/users/4704303/monica-granbois](https://stackoverflow.com/users/4704303/monica-granbois)
 - Dev.to: [https://dev.to/monicag](https://dev.to/monicag) 
