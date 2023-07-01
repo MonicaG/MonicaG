@@ -1,7 +1,10 @@
 # Monica Granbois - @MonicaG
-I like to code and create hobby projects. In my professional life I am a DevOps specialist, but I also have a background in enterprise Java development.
+I am a DevOps specialist with the Province of BC. I also have a background in enterprise Java development.
 
-When not coding I like to read and have low key adventures (climbing, hiking, skiing, surfing).
+## What I am currently learning
+* ArgoCD
+* Helm
+* OpenShift
 
 ## Projects
 
