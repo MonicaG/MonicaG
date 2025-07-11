@@ -9,7 +9,6 @@ I am a DevOps specialist with the Developer Experience team for the Province of 
 ## Around the web
 - Personal Site: [https://monicagranbois.com/](https://monicagranbois.com/)
 - Mastodon: [https://hachyderm.io/@mgranbois](https://hachyderm.io/@mgranbois) 
-- Twitter: [https://twitter.com/mgranbois](https://twitter.com/mgranbois)
 - Stack Overflow: [https://stackoverflow.com/users/4704303/monica-granbois](https://stackoverflow.com/users/4704303/monica-granbois)
 <!---
 MonicaG/MonicaG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
